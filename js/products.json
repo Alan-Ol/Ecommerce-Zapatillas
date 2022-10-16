@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "foto": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/a42a5d53-2f99-4e78-a081-9d07a2d0774a/air-force-1-07-zapatillas-xCxt0q.png",
+       "nombre": "Nike. Air Force",
+        "precio": 28000
+    },
+    {
+        "id": 2,
+        "foto": "https://essential.vtexassets.com/arquivos/ids/425408/306-7822_1.jpg?v=637551294728470000",
+       "nombre": "Nike. Air max up",
+        "precio": 17000
+    },
+    {
+        "id": 3,
+        "foto": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/19748bd0-5a80-4583-9c3f-e29a24044a58/air-max-270-g-zapatillas-de-golf-3GkJ0N.png",
+       "nombre": "Nike. Air Max 270",
+        "precio": 13000
+    },
+    {
+        "id": 4,
+        "foto": "https://essential.vtexassets.com/arquivos/ids/437311/306-8790_1.jpg?v=637583386188100000",
+       "nombre": "Nike. Vapor 13 academy",
+        "precio": 28000
+    },
+    {
+        "id": 5,
+        "foto": "https://sporting.vtexassets.com/arquivos/ids/258273-800-800?v=637515130951470000&width=800&height=800&aspect=true",
+       "nombre": "Nike. Vapor 13 elite",
+        "precio": 15000
+    },
+    {
+        "id": 6,
+        "foto": "https://celadasa.vteximg.com.br/arquivos/ids/172913-423-423/AT8143-001-1.jpg",
+       "nombre": "Nike jr. superfly 7 academy",
+        "precio": 11000
+    }
+]
